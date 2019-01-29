@@ -1,23 +1,22 @@
 h1{
   text-align: center;
 }
-address{
-  text-align: right;
-}
 #informacion{
+  float: right;
   text-align: right;
 }
 h2{
+  clear: right;
   color: Blue;
 }
 img{
-  width: 100;
-  height: 100;
+  width: 125px;
+  height: 125px;
 }
-span{
+span.negrita{
   font-weight: bold;
 }
-.lugar{
+span.lugar{
   font-style: italic;
   color: DodgerBlue;
 }
