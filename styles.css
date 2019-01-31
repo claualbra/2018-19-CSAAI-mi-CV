@@ -13,10 +13,22 @@ img{
   width: 125px;
   height: 125px;
 }
-span.negrita{
+.negrita{
   font-weight: bold;
 }
-span.lugar{
+.lugar{
   font-style: italic;
   color: DodgerBlue;
+}
+.lista{
+  list-style-type: circle;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: purple;
+}
+a:active {
+  color: yellow;
 }
