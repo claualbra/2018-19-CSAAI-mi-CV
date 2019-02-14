@@ -4,6 +4,10 @@ h1{
 #informacion{
   float: right;
   text-align: right;
+  margin: 10px;
+  padding:0px;
+  border:solid;
+  border-color: blue;
 }
 h2{
   clear: right;
